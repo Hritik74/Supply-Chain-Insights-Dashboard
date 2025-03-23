@@ -71,15 +71,15 @@ Step 7:
 
 ![Image](https://github.com/user-attachments/assets/6873c6f4-2df9-4cfa-96ae-66a73a599649)
  
- # Report Snapshot (Overview)
-
+ # Overview Report 
+ 
 ![Image](https://github.com/user-attachments/assets/3b686910-d15e-4a38-a0f1-e56cf88929bf)
 
- # Report Snapshot (Products)
+ # Products Report
 
 ![Image](https://github.com/user-attachments/assets/d2314694-2d0c-45b7-b286-b6f28e06abd2)
 
- # Report Snapshot (Suppliers)
+ # Suppliers Report
 
 ![Image](https://github.com/user-attachments/assets/3a061f6f-7033-430f-bbe4-d9b28c798786)
 
