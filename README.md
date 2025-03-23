@@ -1,4 +1,4 @@
-# Supply Chain Analysis
+# Supply Chain Insights Dashboard
 
 ## Problem Statement:
 
